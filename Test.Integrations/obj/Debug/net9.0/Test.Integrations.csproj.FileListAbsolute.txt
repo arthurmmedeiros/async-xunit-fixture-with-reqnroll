@@ -102,3 +102,4 @@ C:\Users\Work\Documents\Other projects\ReqNRollTest\Test.Integrations\obj\Debug\
 C:\Users\Work\Documents\Other projects\ReqNRollTest\Test.Integrations\obj\Debug\net9.0\Test.Integrations.pdb
 C:\Users\Work\Documents\Other projects\ReqNRollTest\Test.Integrations\obj\Debug\net9.0\Test.Integrations.genruntimeconfig.cache
 C:\Users\Work\Documents\Other projects\ReqNRollTest\Test.Integrations\obj\Debug\net9.0\ref\Test.Integrations.dll
+C:\Users\Work\Documents\Other projects\ReqNRollTest\Test.Integrations\obj\Debug\net9.0\Test.Integrations.sourcelink.json
